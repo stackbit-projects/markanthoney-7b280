@@ -9,7 +9,7 @@ module.exports = {
 
         // important to set the main text that appears in the hero
         hero: {
-            heading: `Perspectives on technology, design and business from the team at Narative.`,
+            heading: `Hi, I'm Mark. I'm an instructional designer.`,
             maxWidth: 652,
         },
         social: [
