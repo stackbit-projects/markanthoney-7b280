@@ -1,7 +1,5 @@
 - name: Mark Anthoney
-  bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
+  bio: 'I''ve been working '
   avatar: ../posts/images/me3.png
   featured: true
   social:
